@@ -39,13 +39,4 @@ Have fun using the script and enhancing your gaming experience!
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Fonts and Styles
 
-To add some style to your README, you can use different fonts and text decorations. Here's an example:
-
-### Headers
-
-```html
-<h1 style="font-family: 'Arial', sans-serif; color: #2C3E50;">Header 1</h1>
-<h2 style="font-family: 'Courier New', monospace; color: #16A085;">Header 2</h2>
-<h3 style="font-family: 'Verdana', sans-serif; color: #E74C3C;">Header 3</h3>

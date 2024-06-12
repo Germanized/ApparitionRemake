@@ -31,7 +31,7 @@ If you encounter any issues or have questions, feel free to open an issue on Git
 
 ### Enjoy the Game!
 
-but dont de a dick or ima poop on u
+but dont be a dick or ima poop on u
 
 ---
 

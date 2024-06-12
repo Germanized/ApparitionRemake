@@ -31,7 +31,7 @@ If you encounter any issues or have questions, feel free to open an issue on Git
 
 ### Enjoy the Game!
 
-Have fun using the script and enhancing your gaming experience!
+but dont de a dick or ima poop on u
 
 ---
 

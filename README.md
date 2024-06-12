@@ -1,6 +1,6 @@
-# GSC Mod Injector
+# GSC Mod Injector FOR EDU PURPOSES ONLY
 
-**A revival of my discontinued GSC script, now available for free!**
+**A revival of my discontinued GSC script, now available for free! i decided to randomly do this after a game of kino der toten**
 
 ## Getting Started
 
